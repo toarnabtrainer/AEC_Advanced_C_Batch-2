@@ -8,7 +8,6 @@ total = - 1! + 3! - 5! + 7! - 9! + ... n number of terms
   2    4      5   term1 = (2 * i), term2 = (2 * i + 1)
   3    6      7
 ---------------------
-
 */
 #include <stdio.h>
 #include <math.h>
