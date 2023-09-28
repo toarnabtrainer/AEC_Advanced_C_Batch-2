@@ -16,4 +16,7 @@ https://www.includehelp.com/c-programming-examples-solved-c-programs.aspx
 **C++ Tutorials / MCQ / Sample Program List:** <br>
 https://www.includehelp.com/cpp-tutorial/
 
+**Computer Organization Youtube Video Tutorial:**<br>
+https://www.youtube.com/playlist?list=PLWPirh4EWFpF0FVeBgL75d1RlASn4sGoz
+
 <hr>
