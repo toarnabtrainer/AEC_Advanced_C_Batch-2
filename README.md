@@ -20,3 +20,18 @@ https://www.includehelp.com/cpp-tutorial/
 https://www.youtube.com/playlist?list=PLWPirh4EWFpF0FVeBgL75d1RlASn4sGoz
 
 <hr>
+
+## Classwork Assignment Problem:
+
+<pre>
+Find out all possible three digit Triode Numbers.
+Let x be a three digit Triode number then x, 2*x and 3*x will have all distinct digits.
+
+As example:
+if x = 219, then 2*x = 438 and 3*x = 657
+Check here in 219, 438 and 657 numbers, no digit has been repeated. So 219 is a Triode number.
+
+if x = 192, then 2*x = 384 and 3*x = 576
+Check here in 192, 384 and 576 numbers, no digit has been repeated. So 192 is a Triode number.
+</pre>
+
