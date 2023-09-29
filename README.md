@@ -21,7 +21,7 @@ https://www.youtube.com/playlist?list=PLWPirh4EWFpF0FVeBgL75d1RlASn4sGoz
 
 <hr>
 
-## Classwork Assignment Problem:
+## Class Assignment:
 
 <pre>
 Find out all possible three digit Triode Numbers.
